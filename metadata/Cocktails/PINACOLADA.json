@@ -1,0 +1,51 @@
+{
+  "name": "Piña Colada",
+  "description": "A tropical cocktail made with rum, coconut cream, and pineapple juice. First created in Puerto Rico in 1954 by Ramón 'Monchito' Marrero at the Caribe Hilton.",
+  "image": "https://raw.githubusercontent.com/ChristianCL92/theNftCocktails/main/metadata/images/pina-colada.webp",
+  "external_url": "https://github.com/ChristianCL92/theNftCocktails",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Tropical"
+    },
+    {
+      "trait_type": "Base Spirit",
+      "value": "White Rum"
+    },
+    {
+      "trait_type": "Glass Type",
+      "value": "Hurricane Glass"
+    },
+    {
+      "trait_type": "Difficulty",
+      "value": "Easy",
+      "max_value": 5
+    },
+    {
+      "trait_type": "IBA Official",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": 1954,
+      "display_type": "date"
+    },
+    {
+      "trait_type": "Ingredients",
+      "value": "White Rum, Coconut Cream, Pineapple Juice"
+    },
+    {
+      "trait_type": "Garnish",
+      "value": "Pineapple Slice, Maraschino Cherry"
+    },
+    {
+      "trait_type": "Serving Style",
+      "value": "Blended"
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Alcohol Content",
+      "value": 13
+    }
+  ]
+}

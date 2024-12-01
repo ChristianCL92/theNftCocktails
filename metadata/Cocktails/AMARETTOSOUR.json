@@ -1,0 +1,51 @@
+{
+  "name": "Amaretto Sour",
+  "description": "A sweet and sour cocktail that perfectly balances the almond sweetness of Amaretto liqueur with fresh lemon juice. The addition of egg white creates a luxurious, silky texture with a characteristic foamy top.",
+  "image": "https://raw.githubusercontent.com/ChristianCL92/theNftCocktails/main/metadata/images/amaretto-sour.webp",
+  "external_url": "https://github.com/ChristianCL92/theNftCocktails",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Sour"
+    },
+    {
+      "trait_type": "Base Spirit",
+      "value": "Amaretto Liqueur"
+    },
+    {
+      "trait_type": "Glass Type",
+      "value": "Old Fashioned Glass"
+    },
+    {
+      "trait_type": "Difficulty",
+      "value": "Intermediate",
+      "max_value": 5
+    },
+    {
+      "trait_type": "IBA Official",
+      "value": "No"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": 1970,
+      "display_type": "date"
+    },
+    {
+      "trait_type": "Ingredients",
+      "value": "Amaretto, Lemon Juice, Simple Syrup, Egg White"
+    },
+    {
+      "trait_type": "Garnish",
+      "value": "Lemon Twist, Maraschino Cherry"
+    },
+    {
+      "trait_type": "Serving Style",
+      "value": "Shaken"
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Alcohol Content",
+      "value": 15
+    }
+  ]
+}
