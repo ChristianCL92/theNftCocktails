@@ -1,0 +1,55 @@
+{
+  "name": "Brandy Alexander",
+  "description": "A sophisticated dessert cocktail that evolved from the gin-based Alexander in the early 20th century. This creamy, chocolate-flavored drink combines cognac, dark crème de cacao, and fresh cream.",
+  "image": "https://raw.githubusercontent.com/ChristianCL92/theNftCocktails/main/metadata/images/brandy-alexander.webp",
+  "external_url": "https://github.com/ChristianCL92/theNftCocktails",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Dessert"
+    },
+    {
+      "trait_type": "Base Spirit",
+      "value": "Brandy"
+    },
+    {
+      "trait_type": "Glass Type",
+      "value": "Cocktail Glass"
+    },
+    {
+      "trait_type": "Difficulty",
+      "value": "Easy",
+      "max_value": 5
+    },
+    {
+      "trait_type": "IBA Official",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": 1916,
+      "display_type": "date"
+    },
+    {
+      "trait_type": "Ingredients",
+      "value": "Cognac, Dark Crème de Cacao, Fresh Cream"
+    },
+    {
+      "trait_type": "Instructions",
+      "value": "Add 1 oz cognac, 1 oz dark crème de cacao, and 1 oz fresh cream to a shaker with ice. Shake vigorously until well-chilled. Strain into a chilled cocktail glass"
+    },
+    {
+      "trait_type": "Garnish",
+      "value": "Freshly Grated Nutmeg"
+    },
+    {
+      "trait_type": "Serving Style",
+      "value": "Shaken"
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Alcohol Content",
+      "value": 20
+    }
+  ]
+}

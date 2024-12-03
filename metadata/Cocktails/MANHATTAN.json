@@ -1,0 +1,55 @@
+{
+  "name": "Manhattan",
+  "description": "A sophisticated cocktail born in the Manhattan Club of New York City in the 1870s. This classic combines rye whiskey or bourbon with sweet vermouth and bitters, epitomizing the golden age of cocktails.",
+  "image": "https://raw.githubusercontent.com/ChristianCL92/theNftCocktails/main/metadata/images/manhattan.webp",
+  "external_url": "https://github.com/ChristianCL92/theNftCocktails",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Base Spirit",
+      "value": "Whiskey"
+    },
+    {
+      "trait_type": "Glass Type",
+      "value": "Coupe Glass"
+    },
+    {
+      "trait_type": "Difficulty",
+      "value": "Medium",
+      "max_value": 5
+    },
+    {
+      "trait_type": "IBA Official",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": 1874,
+      "display_type": "date"
+    },
+    {
+      "trait_type": "Ingredients",
+      "value": "Rye Whiskey, Sweet Vermouth, Angostura Bitters"
+    },
+    {
+      "trait_type": "Instructions",
+      "value": "Add 2 oz rye whiskey, 1 oz sweet vermouth, and 2 dashes Angostura bitters to a mixing glass with ice. Stir well until chilled. Strain into a chilled coupe glass"
+    },
+    {
+      "trait_type": "Garnish",
+      "value": "Maraschino Cherry"
+    },
+    {
+      "trait_type": "Serving Style",
+      "value": "Stirred"
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Alcohol Content",
+      "value": 32
+    }
+  ]
+}

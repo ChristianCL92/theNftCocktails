@@ -1,0 +1,55 @@
+{
+  "name": "Tom Collins",
+  "description": "A classic gin cocktail dating back to the 1870s, combining gin, fresh lemon juice, sugar, and carbonated water. Named after a widespread hoax that swept New York in 1874 known as 'The Great Tom Collins Hoax'.",
+  "image": "https://raw.githubusercontent.com/ChristianCL92/theNftCocktails/main/metadata/images/tom-collins.webp",
+  "external_url": "https://github.com/ChristianCL92/theNftCocktails",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Collins"
+    },
+    {
+      "trait_type": "Base Spirit",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Glass Type",
+      "value": "Collins Glass"
+    },
+    {
+      "trait_type": "Difficulty",
+      "value": "Easy",
+      "max_value": 5
+    },
+    {
+      "trait_type": "IBA Official",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": 1874,
+      "display_type": "date"
+    },
+    {
+      "trait_type": "Ingredients",
+      "value": "Gin, Lemon Juice, Simple Syrup, Soda Water"
+    },
+    {
+      "trait_type": "Instructions",
+      "value": "Combine 2 oz gin, 1 oz lemon juice, and 0.5 oz simple syrup in a shaker with ice. Shake well and strain into an ice-filled collins glass. Top with soda water and stir gently"
+    },
+    {
+      "trait_type": "Garnish",
+      "value": "Lemon Slice & Maraschino Cherry"
+    },
+    {
+      "trait_type": "Serving Style",
+      "value": "Shaken & Topped"
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Alcohol Content",
+      "value": 15
+    }
+  ]
+}

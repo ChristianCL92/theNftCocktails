@@ -1,0 +1,55 @@
+{
+  "name": "White Russian",
+  "description": "A decadent cocktail combining vodka, coffee liqueur, and cream. Made famous by 'The Big Lebowski' (1998), this smooth drink offers a perfect balance of coffee and cream flavors.",
+  "image": "https://raw.githubusercontent.com/ChristianCL92/theNftCocktails/main/metadata/images/white-russian.webp",
+  "external_url": "https://github.com/ChristianCL92/theNftCocktails",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Creamy"
+    },
+    {
+      "trait_type": "Base Spirit",
+      "value": "Vodka"
+    },
+    {
+      "trait_type": "Glass Type",
+      "value": "Old Fashioned Glass"
+    },
+    {
+      "trait_type": "Difficulty",
+      "value": "Easy",
+      "max_value": 5
+    },
+    {
+      "trait_type": "IBA Official",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": 1955,
+      "display_type": "date"
+    },
+    {
+      "trait_type": "Ingredients",
+      "value": "Vodka, Coffee Liqueur, Heavy Cream"
+    },
+    {
+      "trait_type": "Instructions",
+      "value": "Fill an old fashioned glass with ice. Add 2 oz vodka and 1 oz coffee liqueur. Stir gently. Float 1 oz heavy cream on top by slowly pouring over the back of a spoon"
+    },
+    {
+      "trait_type": "Garnish",
+      "value": "None"
+    },
+    {
+      "trait_type": "Serving Style",
+      "value": "Built"
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Alcohol Content",
+      "value": 25
+    }
+  ]
+}

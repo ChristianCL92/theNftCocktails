@@ -1,0 +1,55 @@
+{
+  "name": "Tequila Sunrise",
+  "description": "A refreshing cocktail that mimics a sunrise with layers of tequila, orange juice, and grenadine creating a stunning gradient effect. Created in the early 1970s at The Trident in Sausalito, California.",
+  "image": "https://raw.githubusercontent.com/ChristianCL92/theNftCocktails/main/metadata/images/tequila-sunrise.webp",
+  "external_url": "https://github.com/ChristianCL92/theNftCocktails",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Longdrink"
+    },
+    {
+      "trait_type": "Base Spirit",
+      "value": "Tequila"
+    },
+    {
+      "trait_type": "Glass Type",
+      "value": "Highball Glass"
+    },
+    {
+      "trait_type": "Difficulty",
+      "value": "Easy",
+      "max_value": 5
+    },
+    {
+      "trait_type": "IBA Official",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": 1972,
+      "display_type": "date"
+    },
+    {
+      "trait_type": "Ingredients",
+      "value": "Tequila, Orange Juice, Grenadine"
+    },
+    {
+      "trait_type": "Instructions",
+      "value": "Fill a highball glass with ice. Pour 2 oz tequila and 4 oz orange juice. Stir gently. Slowly pour 0.5 oz grenadine over the back of a spoon to create the sunrise effect"
+    },
+    {
+      "trait_type": "Garnish",
+      "value": "Orange Slice & Cherry"
+    },
+    {
+      "trait_type": "Serving Style",
+      "value": "Built"
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Alcohol Content",
+      "value": 20
+    }
+  ]
+}

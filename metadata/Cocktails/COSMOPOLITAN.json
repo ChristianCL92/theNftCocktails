@@ -1,0 +1,55 @@
+{
+  "name": "Cosmopolitan",
+  "description": "A sophisticated cocktail that gained popularity in the 1990s through the TV show 'Sex and the City'. This elegant pink drink combines vodka, cranberry juice, lime, and orange liqueur for a perfect balance of sweet, tart, and citrus flavors.",
+  "image": "https://raw.githubusercontent.com/ChristianCL92/theNftCocktails/main/metadata/images/cosmopolitan.webp",
+  "external_url": "https://github.com/ChristianCL92/theNftCocktails",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Modern Classic"
+    },
+    {
+      "trait_type": "Base Spirit",
+      "value": "Vodka"
+    },
+    {
+      "trait_type": "Glass Type",
+      "value": "Martini Glass"
+    },
+    {
+      "trait_type": "Difficulty",
+      "value": "Intermediate",
+      "max_value": 5
+    },
+    {
+      "trait_type": "IBA Official",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": 1987,
+      "display_type": "date"
+    },
+    {
+      "trait_type": "Ingredients",
+      "value": "Citrus Vodka, Triple Sec, Cranberry Juice, Lime Juice"
+    },
+    {
+      "trait_type": "Instructions",
+      "value": "Add 1.5 oz citrus vodka, 1 oz cranberry juice, 0.5 oz fresh lime juice, and 0.5 oz triple sec to a shaker with ice. Shake vigorously for 10-15 seconds. Double strain into a chilled martini glass"
+    },
+    {
+      "trait_type": "Garnish",
+      "value": "Orange Twist or Lime Wheel"
+    },
+    {
+      "trait_type": "Serving Style",
+      "value": "Shaken"
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Alcohol Content",
+      "value": 20
+    }
+  ]
+}
