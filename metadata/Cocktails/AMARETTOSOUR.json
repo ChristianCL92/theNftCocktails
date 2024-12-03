@@ -35,6 +35,10 @@
       "value": "Amaretto, Lemon Juice, Simple Syrup, Egg White"
     },
     {
+      "trait_type": "Instructions",
+      "value": "Add 2 oz amaretto, 1 oz fresh lemon juice, 0.5 oz simple syrup, and 1 egg white to a shaker. Dry shake vigorously for 10-15 seconds. Add ice and shake again for 10-15 seconds. Double strain into an ice-filled old fashioned glass"
+    },
+    {
       "trait_type": "Garnish",
       "value": "Lemon Twist, Maraschino Cherry"
     },

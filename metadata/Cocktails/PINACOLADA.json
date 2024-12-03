@@ -35,6 +35,10 @@
       "value": "White Rum, Coconut Cream, Pineapple Juice"
     },
     {
+      "trait_type": "Instructions",
+      "value": "In a blender, combine 2 oz white rum, 3 oz pineapple juice, 1 oz coconut cream, and 1 cup crushed ice. Blend until smooth and slushy. Pour into a hurricane glass or large goblet. Alternative: Shake ingredients with ice and strain over fresh crushed ice for a more concentrated flavor"
+    },
+    {
       "trait_type": "Garnish",
       "value": "Pineapple Slice, Maraschino Cherry"
     },
