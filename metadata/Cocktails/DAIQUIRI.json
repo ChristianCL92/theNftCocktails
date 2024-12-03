@@ -1,0 +1,55 @@
+{
+  "name": "Daiquiri",
+  "description": "A classic Cuban cocktail that combines white rum, fresh lime juice, and simple syrup. Created in the early 1900s in Cuba, the Daiquiri represents one of the most fundamental sour cocktails and has become a benchmark drink for testing bartenders' skills.",
+  "image": "https://raw.githubusercontent.com/ChristianCL92/theNftCocktails/main/metadata/images/daiquiri.webp",
+  "external_url": "https://github.com/ChristianCL92/theNftCocktails",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Sour"
+    },
+    {
+      "trait_type": "Base Spirit",
+      "value": "White Rum"
+    },
+    {
+      "trait_type": "Glass Type",
+      "value": "Coupe Glass"
+    },
+    {
+      "trait_type": "Difficulty",
+      "value": "Intermediate",
+      "max_value": 5
+    },
+    {
+      "trait_type": "IBA Official",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": 1902,
+      "display_type": "date"
+    },
+    {
+      "trait_type": "Ingredients",
+      "value": "White Rum, Lime Juice, Simple Syrup"
+    },
+    {
+      "trait_type": "Instructions",
+      "value": "Add 2 oz white rum, 1 oz fresh lime juice, and 3/4 oz simple syrup to a shaker. Fill with ice and shake vigorously for 10-15 seconds. Double strain into a chilled coupe glass"
+    },
+    {
+      "trait_type": "Garnish",
+      "value": "Lime Wheel"
+    },
+    {
+      "trait_type": "Serving Style",
+      "value": "Shaken"
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Alcohol Content",
+      "value": 20
+    }
+  ]
+}
