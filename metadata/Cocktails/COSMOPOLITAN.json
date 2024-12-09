@@ -27,7 +27,8 @@
     },
     {
       "trait_type": "Year Created",
-      "value": "1987"
+      "value": 1987,
+      "display_type": "date"
     },
     {
       "trait_type": "Ingredients",
