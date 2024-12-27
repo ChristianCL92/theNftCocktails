@@ -64,8 +64,8 @@ https://raw.githubusercontent.com/ChristianCL92/theNftCocktails/main/metadata/Co
 
 ## Related Repositories
 
-- [Frontend Application]: https://github.com/ChristianCL92/nft-cocktails-frontend 
-- [Smart Contract]: https://github.com/ChristianCL92/nft-cocktails-contract
+- Frontend Application: https://github.com/ChristianCL92/nft-cocktails-frontend 
+- Smart Contract: https://github.com/ChristianCL92/nft-cocktails-contract
 
 ## Note
 
